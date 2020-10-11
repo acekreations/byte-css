@@ -3,14 +3,19 @@ body {
   margin: 0px auto;
   padding: 10px;
   font-family: Helvetica, Arial, sans-serif;
-  color: #353535; }
+  color: #333333; }
+
+p {
+  line-height: 1.4em; }
 
 small {
   color: #666666;
   font-size: 0.66em; }
 
 hr {
-  border-top: 1px solid #d5d5d5;
+  border: 0;
+  height: 1px;
+  background-color: #d5d5d5;
   margin: 18px 0px; }
 
 nav {
@@ -27,14 +32,21 @@ nav ul li {
 
 a {
   text-decoration: none;
-  color: #0b55a3; }
+  color: #3366ff; }
+  a:hover {
+    text-decoration: underline; }
 
 button {
-  background-color: #0b55a3;
+  background-color: #3366ff;
   color: #fff;
-  border: 0px solid #ffffff;
+  border: 2px solid #3366ff;
   padding: 8px 12px;
-  font-weight: bold; }
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer; }
+  button:hover {
+    background-color: transparent;
+    color: #3366ff; }
 
 form input,
 form textarea {
@@ -45,3 +57,13 @@ form textarea {
   min-width: 200px;
   font-size: 0.9em;
   background-color: #ffffe0; }
+
+code {
+  background-color: #ffffe0;
+  padding: 2px 4px;
+  border: 1px solid #d5d5d5;
+  border-radius: 3px; }
+
+mark {
+  padding: 0px 3px;
+  border-radius: 3px; }
