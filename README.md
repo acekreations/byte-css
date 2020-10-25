@@ -1,6 +1,6 @@
 # Byte CSS
 
-Byte CSS is a small(< 600 bytes) CSS theme for building ultra lightweight webpages. Their are plenty of reasons why you may want to build a lightweight site, wheather it's for speedy load times, simplicty, accessibility or anything else. If you look around the Google machine you are probably going to find most people saying if you want a fast accessible site then you should forego the Javascript, CSS, Images, Videos, and Animations. They are correct, and you should listen to them, but for those of you who want to keep your site lightweight and still make it a little more user friendly I built Byte.
+Byte CSS is a small(~ 900 bytes) CSS theme for building ultra lightweight webpages. Their are plenty of reasons why you may want to build a lightweight site, wheather it's for speedy load times, simplicty, accessibility or anything else. If you look around the Google machine you are probably going to find most people saying if you want a fast accessible site then you should forego the Javascript, CSS, Images, Videos, and Animations. They are correct, and you should listen to them, but for those of you who want to keep your site lightweight and still make it a little more user friendly I built Byte.
 
 # Installation
 
